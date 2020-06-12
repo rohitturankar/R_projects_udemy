@@ -1,0 +1,13 @@
+1. Law of Large numbers -> if we toss a coin 10 times the ideal probablity of getting an head is 
+   50% but the result you get will be different. It can be 4/10 or 3/10. This law states that if
+   the event is repeated many times or equals infinity then Actual probablity will tends to Ideal 
+   probability.
+
+   Ideal Probability - I(E) - 0.5
+   N(E)number of times    Getting a head   Probablity P(E)
+     10                   4             0.4
+     100                  45            0.45
+     1000                 490           0.49
+if N(E) ~ infinity  then P(E) ---> I(E)
+
+2. lygometry - Tedtalks watch video 
